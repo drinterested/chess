@@ -60,9 +60,9 @@ export default function Navbar() {
               />
             </div>
             <div className="font-semibold text-base md:text-lg">
-              <span className="text-[#405862]">Chess</span>{" "}
+              <span className="text-[#405862]">Dr. Interested</span>{" "}
               <span className="text-[#4ecdc4] group-hover:underline decoration-wavy decoration-[#4ecdc4] underline-offset-4 transition-all duration-300">
-                Club
+                Chess Club
               </span>
             </div>
           </Link>
@@ -102,7 +102,7 @@ export default function Navbar() {
             className="hidden md:flex items-center gap-1 text-xs font-semibold text-white bg-[#4ecdc4] hover:bg-[#4ecdc4]/90 transition-colors px-3 py-1.5 rounded-full"
             aria-label="Donate to support cancer research"
           >
-            <span>Support Cancer Research</span>
+            <span>Support Chess Against Cancer</span>
           </a>
 
           <div className="flex items-center gap-2" role="group" aria-label="Social media links">
