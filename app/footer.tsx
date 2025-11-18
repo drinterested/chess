@@ -7,7 +7,7 @@ return (
             <Link href="/" className="flex items-center gap-3 mb-4 group">
               <div className="relative w-12 h-12 overflow-hidden rounded-full transition-transform duration-300 group-hover:scale-110">
                 <Image
-                  src="/circle-logo.png"
+                  src="/logo.png"
                   alt="Simmon Chang Chess Club Logo"
                   fill
                   className="rounded-full object-cover"

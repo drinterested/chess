@@ -8,7 +8,7 @@ export default function NotFound() {
       <div className="text-center max-w-md">
         <div className="relative w-24 h-24 mx-auto mb-8 opacity-60">
           <Image
-            src="/circle-logo.png"
+            src="/logo.png"
             alt="Dr. Interested Logo"
             fill
             className="rounded-full object-cover grayscale"
